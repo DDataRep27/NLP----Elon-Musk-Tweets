@@ -1,2 +1,4 @@
 # NLP----Elon-Musk-Tweets
-Perform sentimental analysis on the Elon-musk tweets
+
+### For Text Mining assignment
+**Perform sentimental analysis on the Elon-musk tweets**
